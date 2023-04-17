@@ -1,7 +1,3 @@
-import com.sun.jdi.PathSearchingVirtualMachine;
-
-import java.sql.SQLOutput;
-
 public class RelationalFun {
     public static void main(String[] args) {
         boolean myBool = true;
